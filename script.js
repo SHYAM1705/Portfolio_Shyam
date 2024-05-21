@@ -65,7 +65,7 @@ $(document).ready(function() {
     });
 
   //contact form to excel sheet
-  const scriptURL = '';
+  const scriptURL = 'https://api.apispreadsheets.com/data/ojPFk5WIweIT6WUh/';
   const form = document.forms['submitToGoogleSheet']
   const msg = document.getElementById("msg")
 
